@@ -4,4 +4,5 @@
 采用Nginx作为负载均衡器，分发请求到Tomcat集群。<br>
 采用Redis作为集中存储Session的缓存服务器，实现Session共享。<br>
 采用6个Redis（3Master & 3Slave）作为缓存集群。<br>
-vsftpd+Nginx搭建图片服务器。
+vsftpd+Nginx搭建图片服务器。<br>
+具体在详情可查看文档。
